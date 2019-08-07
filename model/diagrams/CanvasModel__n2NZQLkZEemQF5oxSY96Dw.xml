@@ -149,11 +149,10 @@
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd2AlSEeGhO-CobgCrfw.png"
-      locked="true"
       borderColor="#000000"
       hintTitle="Revenue Streams"
       hintContent="&lt;li>For what value are our customers really willing to pay?&lt;/li>&#xD;&#xA;&lt;li>For what do they currently pay?&lt;/li>&#xD;&#xA;&lt;li>How are they currently paying?&lt;/li>&#xD;&#xA;&lt;li>How would they prefer to pay?&lt;/li>&#xD;&#xA;&lt;li>How much does each Revenue Stream contribute to overall revenues?&lt;/li>&#xD;&#xA;&#xD;&#xA;&lt;p/>&#xD;&#xA;&#xD;&#xA;Types:&#xD;&#xA;&lt;i>&#xD;&#xA;&lt;li>Asset sale&lt;/li>&#xD;&#xA;&lt;li>Usage fee&lt;/li>&#xD;&#xA;&lt;li>Subscription Fees&lt;/li>&#xD;&#xA;&lt;li>Lending/Renting/Leasing&lt;/li>&#xD;&#xA;&lt;li>Licensing&lt;/li>&#xD;&#xA;&lt;li>Brokerage fees&lt;/li>&#xD;&#xA;&lt;li>Advertising&lt;/li>&#xD;&#xA;&lt;/i>&#xD;&#xA;&#xD;&#xA;&lt;p/>&#xD;&#xA;&#xD;&#xA;Fixed Pricing:&#xD;&#xA;&lt;i>&#xD;&#xA;&lt;li>List Price&lt;/li>&#xD;&#xA;&lt;li>Product feature dependent&lt;/li>&#xD;&#xA;&lt;li>Customer segment dependent&lt;/li>&#xD;&#xA;&lt;li>Volume dependent&lt;/li>&#xD;&#xA;&lt;/i>&#xD;&#xA;&#xD;&#xA;&lt;p/>&#xD;&#xA;&#xD;&#xA;Dynamic Pricing:&#xD;&#xA;&lt;i>&#xD;&#xA;&lt;li>Negotiation( bargaining)&lt;/li>&#xD;&#xA;&lt;li>Yield Management&lt;/li>&#xD;&#xA;&lt;li>Real-time-Market&lt;/li>&#xD;&#xA;&lt;/i>&#xD;&#xA;"
-      content="Revenue Streams">
+      content="Revenue Streams&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Lots of them just testing this.">
     <bounds
         x="581"
         y="588"
